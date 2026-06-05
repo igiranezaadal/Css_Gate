@@ -86,3 +86,49 @@ Enter search term
 More information about Google data transfer in LMU's Privacy Policy.
 
 close
+<div class="w-[900px] mx-auto flex bg-white border border-gray-200 overflow-hidden font-sans">
+  
+  <div class="flex-1 bg-white"></div>
+
+  <div class="flex-1 bg-[#262626] text-white p-8 flex flex-col justify-between min-h-[320px]">
+    <div>
+      <div class="relative w-16 h-16 mb-8 select-none">
+        <div class="absolute inset-0 translate-x-2 translate-y-2 border-2 border-white opacity-40 [mask-image:repeating-linear-gradient(-45deg,black,black_2px,transparent_2px,transparent_6px)]"></div>
+        <div class="absolute inset-0 border-2 border-white flex flex-col items-center justify-center font-black tracking-wider leading-none text-sm p-1">
+          <span>NE</span>
+          <span>WS</span>
+        </div>
+      </div>
+
+      <h2 class="text-xl font-bold tracking-tight leading-snug">
+        Signals from the deep: brain rhythms distinguish states of consciousness
+      </h2>
+    </div>
+
+    <div class="pt-6">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-6 h-6 transform transition-transform hover:translate-x-1 cursor-pointer">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+      </svg>
+    </div>
+  </div>
+
+  <div class="flex-1 bg-[#f4fcf7] text-[#0f3d26] p-8 flex flex-col justify-between min-h-[320px] border-l border-gray-100">
+    <div>
+      <div class="w-16 h-16 border-2 border-[#6b8c7a] bg-[#dbece1] flex flex-col items-center justify-center mb-8 font-bold leading-none">
+        <span class="text-2xl text-[#525252] font-black">10</span>
+        <span class="text-xs text-[#525252] tracking-wider mt-0.5">JUN</span>
+      </div>
+
+      <h2 class="text-xl font-bold tracking-tight leading-snug text-[#123c24]">
+        Franz Schubert’s “Fair Maid of the Mill” and it’s background in Berlin
+      </h2>
+    </div>
+
+    <div class="pt-6">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="w-6 h-6 text-black transform transition-transform hover:translate-x-1 cursor-pointer">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+      </svg>
+    </div>
+  </div>
+
+</div>
